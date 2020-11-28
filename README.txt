@@ -9,7 +9,7 @@ Questions:
 
 Amazon US Electronic department:
 we're going to focus in the laptos, and cell phones cathegories
-datasets: https://www.kaggle.com/data/181154 cellphone reviews , https://www.kaggle.com/rishidamarla/electronics-from-best-buy-and-amazon-reviews 
+datasets: https://www.kaggle.com/data/181154 cellphone reviews , https://www.kaggle.com/rishidamarla/electronics-from-best-buy-and-amazon-reviews , https://data.world/datafiniti/amazon-and-best-buy-electronics
 API: https://aws.amazon.com/api-gateway/pricing/
 Questions:
 The best buyed is the ones with the lowest price and best rating?
