@@ -1,6 +1,5 @@
 # Project3
 
-We are in the dilema to choose 2 topics:
 
 Olympics:
 Datasets: https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results?select=athlete_events.csv , https://odf.olympictech.org/project.htm
