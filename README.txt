@@ -4,7 +4,6 @@ Google presentation: https://docs.google.com/presentation/d/1HpWI2nehUglA6OeL5w5
 
 
 
-
 Datasets: https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results?select=athlete_events.csv , https://odf.olympictech.org/project.htm
 API: https://olympicsapi.docs.apiary.io/#reference/olympics/athlete 
 Questions:how many medals has Portugal won in 120 years? How does it compare to other countries?
